@@ -6,3 +6,4 @@ S3 Project to tackle the problem of fake news on the web and social media.
 2. Mario Alejandro
 3. Chenxu Hu
 4. Rahul Mishra
+5. Junghwan Lee
