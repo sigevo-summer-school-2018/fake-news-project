@@ -43,4 +43,32 @@ if we have an automatic system to classify content as Fare or Fact.
 5. [Junghwan Lee](https://github.com/jazz4rabbit) 1
 6. [Mario Alejandro](https://github.com/Mario2117) 1
 
-# Proposed Workshops, Tutorials, Tracks
+# Proposed Tutorials:
+
+Evolutionary Computation: A Unified Approach
+Kenneth De Jong, Krasnow Institute
+Monday, July 16, 09:00-10:40 Conference Room D (3F)
+
+Introducing Learning Classifier Systems: Rules that Capture Complexity
+Ryan Urbanowicz, University of Pennsylvania Danilo Vargas, Kyushu University
+Sunday, July 15, 09:30-11:10 Conference Room Medium (2F)
+
+Evolution of Neural Networks
+Risto Miikkulainen, The University of Texas at AustinSunday,
+July 15, 12:50-14:30 Terrsa Hall (1F)
+
+Evolutionary Computation for Digital Art
+Aneta Neumann, The University of Adelaide Frank Neumann, The University of Adelaide
+
+Evolutionary Computation and Evolutionary Deep Learning for Image Analysis, Signal Processing and Pattern Recognition
+Mengjie Zhang, Victoria University of Wellington
+Stefano Cagnoni, University of Parma
+Monday, July 16, 16:00-17:40 Conference Room D (3F)
+
+Cloudy Distributed Evolutionary Computation
+JJ Merelo, University of Granada
+Monday, July 16, 14:00-15:40 AV Study Room (2F)
+
+Evolution of Neural Networks
+Risto Miikkulainen, The University of Texas at Austin
+Sunday, July 15, 12:50-14:30 Terrsa Hall (1F)
