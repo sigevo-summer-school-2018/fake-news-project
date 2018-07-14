@@ -42,6 +42,7 @@ if we have an automatic system to classify content as Fare or Fact.
 4. [Dong Pil Yu](https://github.com/dongpilYu) 1
 5. [Junghwan Lee](https://github.com/jazz4rabbit) 1
 6. [Mario Alejandro](https://github.com/Mario2117) 1
+7. [Taishi Ito](https://github.com/taishi-shinshu) 1
 
 # Proposed Tutorials:
 
